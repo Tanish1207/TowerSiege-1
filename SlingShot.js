@@ -9,7 +9,7 @@ class SlingShot{
       }
       this.slingshot= Constraint.create(options);
       this.pointB=pointB;
-      World.add(world,this.sling);
+      World.add(world,this.slingshot);
 
 
     }
